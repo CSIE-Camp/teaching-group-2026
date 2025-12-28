@@ -2,8 +2,8 @@
 ## Wiki
 ### 籌備資料
 - [會議記錄](https://drive.google.com/drive/folders/1tIiftooO9RJgJq3rYuvuPGNRoYEb5Quz?usp=drive_link)
-- [GitHub Project](https://github.com/orgs/CSIE-Camp/projects/6)
-- [Google Drive]([https://drive.google.com/drive/folders/16atL3m7fyfF_nwpjavwMS3eZusiwC9al](https://github.com/orgs/CSIE-Camp/projects/9))
+- [GitHub Project](https://github.com/orgs/CSIE-Camp/projects)
+- [Google Drive](https://drive.google.com/drive/folders/16atL3m7fyfF_nwpjavwMS3eZusiwC9al)
 ### 好工具
 - [時間調查 Xoyondo](https://xoyondo.com/)
 - [詳細時間調查 When2meet](https://www.when2meet.com/)
